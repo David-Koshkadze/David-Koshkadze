@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**David-Koshkadze/David-Koshkadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am David, Full-Stack Web Developer specialized in JavaScript ecosystem. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a Startup and side projects.
 
-- 🔭 I’m currently working on Startup and side Projects
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=David-Koshkadze&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
+
