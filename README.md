@@ -2,8 +2,15 @@
 
 I am David, Full-Stack Web Developer specialized in JavaScript ecosystem. 
 
-🔭 I’m currently working on a Startup and side projects.
+I am mainly self taught developer and I've been learning programming for 5 years.
 
+I have 2 years of commercial working experience and worked on diverse projects including:
+
+- E-commerce Website, Web3 Platforms, Personal websites for clients and etc.
+
+I’m currently working on a Startup and side projects.
+
+🔭 Looking for job opportunity.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=David-Koshkadze&theme=dark" />
