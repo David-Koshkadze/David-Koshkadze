@@ -14,6 +14,5 @@ I’m currently working on a Startup and side projects.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=David-Koshkadze&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=David-Koshkadze&theme=default" />
 </picture>
-
