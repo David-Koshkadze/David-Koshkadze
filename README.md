@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-I am David, Full-Stack Web Developer specialized in JavaScript ecosystem. 
+I am David 
 
-I am mainly self taught developer and I've been learning programming for 5 years.
+Full-Stack Web Developer specialized in JavaScript and Ruby ecosystem. 
+
+Writing Go on side projects.
+
+Learning programming for 5 years.
+
+Bachelor of Computer Science
 
 I have 2 years of commercial working experience and worked on diverse projects including:
 
 - E-commerce Website, Web3 Platforms, Personal websites for clients and etc.
 
-I’m currently working on a Startup and side projects.
+I’m currently working in Healthcare industry as a back-end developer using Ruby on Rails
 
-🔭 Looking for job opportunity.
+🔭 Also looking for a job opportunity.
 
 ## Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> <img 
@@ -20,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="50"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" width="50"/> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50"/><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
           
